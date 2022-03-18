@@ -1,0 +1,9 @@
+class Mahasiswa:
+    def _init_(self, inputNama, inputNim):
+        self.nama = inputNama
+        self.nim = inputNim
+       
+
+mahasiswa1 = Mahasiswa("Dian","D02190321")
+
+print(mahasiswa1._dict_)

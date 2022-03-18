@@ -1,0 +1,17 @@
+class mahasiswa:
+   pass
+
+mahasiswa1= mahasiswa()
+matakuliah= mahasiswa()
+
+mahasiswa1.nama = 'Dian'
+mahasiswa1.nim = 'D0219321'
+
+matakuliah.nama = 'matematika'
+matakuliah.sks = '3'
+
+
+
+print (mahasiswa1.nama)
+
+print (matakuliah.sks)
